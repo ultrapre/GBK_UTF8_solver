@@ -1,0 +1,2 @@
+# GBK2UTF8
+文件读写GBK 转换 UTF8
