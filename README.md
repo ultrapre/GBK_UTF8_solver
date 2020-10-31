@@ -10,3 +10,9 @@ ucs2_to_utf8
 ============
 
 convert unicode  file to utf8 file
+
+# UTF8toGBK
+文件读写 UTF8toGBK
+
+UTF8toGBK \<input\> [output]
+
